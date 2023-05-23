@@ -4,7 +4,7 @@
 | ------------------ |:-------------:| -------------------------------------------------------------------:|
 | GEN & JOINER       | WORK          | Can be used at full efficiency                                      |
 | CHANNEL SPAMMER    | ERROR         | An API problem occurred                                             |
-| ROXYLESS SSL SPACE | WORK          | Can be used at full efficiency                                      |
+| POXYLESS SSL SPACE | WORK          | Can be used at full efficiency                                      |
 
 # How To Use
 https://youtu.be/37Y7yzdoWpc
